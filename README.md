@@ -1,6 +1,6 @@
 ## Dev : Diogo Cardoso de Araujo
 
-## Quais recursos estão implementados?
+## Recursos implementados
 - REM comentários
 - Label
 - PRINT (números literais, strings literais, variáveis)
